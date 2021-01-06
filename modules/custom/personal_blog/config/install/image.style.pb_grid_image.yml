@@ -1,0 +1,14 @@
+langcode: en
+status: true
+dependencies: {  }
+name: pb_grid_image
+label: 'PB Grid Image 300x150'
+effects:
+  70783e10-73a8-486d-9770-1ba03ec0ec59:
+    uuid: 70783e10-73a8-486d-9770-1ba03ec0ec59
+    id: image_scale
+    weight: 1
+    data:
+      width: 300
+      height: 150
+      upscale: false
