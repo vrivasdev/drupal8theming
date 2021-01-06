@@ -2,7 +2,13 @@ pb-css:
   version: 1.0
   css:
     base:
-    css/base/styles.css: {}
+      css/base/styles.css: {}
+    layout:
+      css/layout/layout.css: {}
+    component:
+      css/components/menu.css: {}
+      css/components/button.css: {}
+      css/components/views.css: {}
 quicksand:
   license:
     name: SIL Open Font license 1.1
