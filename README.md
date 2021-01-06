@@ -2,6 +2,8 @@
 
 Theme's folder: themes/custom/pb
 
+Migration files: modules/custom/personal_blog
+
 HOME
 ![](themes/custom/pb/images/home.png)
 
