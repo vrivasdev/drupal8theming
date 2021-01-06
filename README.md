@@ -1,4 +1,7 @@
 # Screenshots
+
+Theme's folder: themes/custom/pb
+
 HOME
 ![](themes/custom/pb/images/home.png)
 
